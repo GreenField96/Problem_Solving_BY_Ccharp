@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "secondHelloApp", "secondHel
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "add-two-numbers", "add-two-numbers\add-two-numbers.csproj", "{85046225-6C5C-49B6-AE08-893B3B0D3253}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Substring Without Repeating Characters", "Longest Substring Without Repeating Characters\Longest Substring Without Repeating Characters.csproj", "{DD934815-1E48-4D38-BF56-309C46A03482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Substring Without Repeating Characters", "Longest Substring Without Repeating Characters\Longest Substring Without Repeating Characters.csproj", "{DD934815-1E48-4D38-BF56-309C46A03482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binary-tree-inorder-traversal", "binary-tree-inorder-traversal\binary-tree-inorder-traversal.csproj", "{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DD934815-1E48-4D38-BF56-309C46A03482}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD934815-1E48-4D38-BF56-309C46A03482}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD934815-1E48-4D38-BF56-309C46A03482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

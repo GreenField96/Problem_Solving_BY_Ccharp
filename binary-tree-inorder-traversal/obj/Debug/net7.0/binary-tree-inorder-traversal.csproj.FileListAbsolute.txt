@@ -1,0 +1,15 @@
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\bin\Debug\net7.0\binary-tree-inorder-traversal.exe
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\bin\Debug\net7.0\binary-tree-inorder-traversal.deps.json
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\bin\Debug\net7.0\binary-tree-inorder-traversal.runtimeconfig.json
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\bin\Debug\net7.0\binary-tree-inorder-traversal.dll
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\bin\Debug\net7.0\binary-tree-inorder-traversal.pdb
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\binary-tree-inorder-traversal.csproj.AssemblyReference.cache
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\binary-tree-inorder-traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\binary-tree-inorder-traversal.AssemblyInfoInputs.cache
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\binary-tree-inorder-traversal.AssemblyInfo.cs
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\binary-tree-inorder-traversal.csproj.CoreCompileInputs.cache
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\binary-tree-inorder-traversal.dll
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\refint\binary-tree-inorder-traversal.dll
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\binary-tree-inorder-traversal.pdb
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\binary-tree-inorder-traversal.genruntimeconfig.cache
+C:\Users\foo\source\repos\helloAppCcharp\binary-tree-inorder-traversal\obj\Debug\net7.0\ref\binary-tree-inorder-traversal.dll
