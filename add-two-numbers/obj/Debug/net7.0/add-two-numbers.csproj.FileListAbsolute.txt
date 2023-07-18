@@ -1,0 +1,15 @@
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\add-two-numbers.csproj.AssemblyReference.cache
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\add-two-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\add-two-numbers.AssemblyInfoInputs.cache
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\add-two-numbers.AssemblyInfo.cs
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\add-two-numbers.csproj.CoreCompileInputs.cache
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\bin\Debug\net7.0\add-two-numbers.exe
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\bin\Debug\net7.0\add-two-numbers.deps.json
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\bin\Debug\net7.0\add-two-numbers.runtimeconfig.json
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\bin\Debug\net7.0\add-two-numbers.dll
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\bin\Debug\net7.0\add-two-numbers.pdb
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\add-two-numbers.dll
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\refint\add-two-numbers.dll
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\add-two-numbers.pdb
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\add-two-numbers.genruntimeconfig.cache
+C:\Users\foo\source\repos\helloAppCcharp\add-two-numbers\obj\Debug\net7.0\ref\add-two-numbers.dll

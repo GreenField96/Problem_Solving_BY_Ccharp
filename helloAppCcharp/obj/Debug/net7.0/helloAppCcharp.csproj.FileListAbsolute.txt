@@ -1,0 +1,15 @@
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\bin\Debug\net7.0\helloAppCcharp.exe
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\bin\Debug\net7.0\helloAppCcharp.deps.json
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\bin\Debug\net7.0\helloAppCcharp.runtimeconfig.json
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\bin\Debug\net7.0\helloAppCcharp.dll
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\bin\Debug\net7.0\helloAppCcharp.pdb
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\helloAppCcharp.csproj.AssemblyReference.cache
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\helloAppCcharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\helloAppCcharp.AssemblyInfoInputs.cache
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\helloAppCcharp.AssemblyInfo.cs
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\helloAppCcharp.csproj.CoreCompileInputs.cache
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\helloAppCcharp.dll
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\refint\helloAppCcharp.dll
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\helloAppCcharp.pdb
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\helloAppCcharp.genruntimeconfig.cache
+C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\obj\Debug\net7.0\ref\helloAppCcharp.dll
