@@ -1,0 +1,15 @@
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\bin\Debug\net7.0\Validate Binary Search Tree.exe
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\bin\Debug\net7.0\Validate Binary Search Tree.deps.json
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\bin\Debug\net7.0\Validate Binary Search Tree.runtimeconfig.json
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\bin\Debug\net7.0\Validate Binary Search Tree.dll
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\bin\Debug\net7.0\Validate Binary Search Tree.pdb
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\Validate Binary Search Tree.csproj.AssemblyReference.cache
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\Validate Binary Search Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\Validate Binary Search Tree.AssemblyInfoInputs.cache
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\Validate Binary Search Tree.AssemblyInfo.cs
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\Validate Binary Search Tree.csproj.CoreCompileInputs.cache
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\Validate Binary Search Tree.dll
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\refint\Validate Binary Search Tree.dll
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\Validate Binary Search Tree.pdb
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\Validate Binary Search Tree.genruntimeconfig.cache
+C:\Users\foo\source\repos\helloAppCcharp\Validate Binary Search Tree\obj\Debug\net7.0\ref\Validate Binary Search Tree.dll

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "add-two-numbers", "add-two-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Substring Without Repeating Characters", "Longest Substring Without Repeating Characters\Longest Substring Without Repeating Characters.csproj", "{DD934815-1E48-4D38-BF56-309C46A03482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binary-tree-inorder-traversal", "binary-tree-inorder-traversal\binary-tree-inorder-traversal.csproj", "{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "binary-tree-inorder-traversal", "binary-tree-inorder-traversal\binary-tree-inorder-traversal.csproj", "{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate Binary Search Tree", "Validate Binary Search Tree\Validate Binary Search Tree.csproj", "{8C3C998F-3BAC-4361-99C0-9DBDBEDD1145}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DF1FC7C-AC85-4405-8AF9-10FE7F18C725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3C998F-3BAC-4361-99C0-9DBDBEDD1145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3C998F-3BAC-4361-99C0-9DBDBEDD1145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3C998F-3BAC-4361-99C0-9DBDBEDD1145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3C998F-3BAC-4361-99C0-9DBDBEDD1145}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

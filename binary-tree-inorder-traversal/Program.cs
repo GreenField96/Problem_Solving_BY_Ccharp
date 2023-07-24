@@ -1,5 +1,5 @@
 ﻿
- public class TreeNode {
+public class TreeNode {
       public int val;
       public TreeNode left;
       public TreeNode right;
@@ -8,7 +8,7 @@
           this.left = left;
           this.right = right;
       }
- }
+}
  
 public class Solution{
     IList<int> ints = new List<int>();
