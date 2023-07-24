@@ -51,3 +51,24 @@ internal class Program
 
     }
 }
+/*
+ public class Solution {
+    public bool IsValidBST(TreeNode root) {
+        int? l = null;
+        Stack<TreeNode> s = new Stack<TreeNode>();
+        TreeNode cur = root;
+        while(cur!=null || s.Count() > 0) {
+            while(cur!=null) {
+                s.Push(cur);
+                cur = cur.left;
+            }
+            cur = s.Pop();
+            if(l != null && l >= cur.val) return false;
+            l = cur.val;
+            cur = cur.right;
+        }
+        
+        return true;
+    }
+}
+ */
