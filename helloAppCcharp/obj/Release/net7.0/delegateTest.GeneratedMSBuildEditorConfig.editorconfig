@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = delegateTest
-build_property.ProjectDir = C:\Users\foo\source\repos\helloAppCcharp\helloAppCcharp\
+build_property.ProjectDir = D:\Apps\leetcode\Problem_Solving_BY_Ccharp\helloAppCcharp\
