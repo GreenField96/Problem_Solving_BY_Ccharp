@@ -1,0 +1,15 @@
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\Majority Element.csproj.AssemblyReference.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\Majority Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\Majority Element.AssemblyInfoInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\Majority Element.AssemblyInfo.cs
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\Majority Element.csproj.CoreCompileInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\bin\Debug\net6.0\Majority Element.exe
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\bin\Debug\net6.0\Majority Element.deps.json
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\bin\Debug\net6.0\Majority Element.runtimeconfig.json
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\bin\Debug\net6.0\Majority Element.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\bin\Debug\net6.0\Majority Element.pdb
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\Majority Element.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\refint\Majority Element.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\Majority Element.pdb
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\Majority Element.genruntimeconfig.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Majority Element\obj\Debug\net6.0\ref\Majority Element.dll
