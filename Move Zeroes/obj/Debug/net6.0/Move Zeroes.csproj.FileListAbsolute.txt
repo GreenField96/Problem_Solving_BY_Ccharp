@@ -1,0 +1,15 @@
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\Move Zeroes.csproj.AssemblyReference.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\Move Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\Move Zeroes.AssemblyInfoInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\Move Zeroes.AssemblyInfo.cs
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\Move Zeroes.csproj.CoreCompileInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\bin\Debug\net6.0\Move Zeroes.exe
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\bin\Debug\net6.0\Move Zeroes.deps.json
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\bin\Debug\net6.0\Move Zeroes.runtimeconfig.json
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\bin\Debug\net6.0\Move Zeroes.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\bin\Debug\net6.0\Move Zeroes.pdb
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\Move Zeroes.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\refint\Move Zeroes.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\Move Zeroes.pdb
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\Move Zeroes.genruntimeconfig.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Move Zeroes\obj\Debug\net6.0\ref\Move Zeroes.dll
