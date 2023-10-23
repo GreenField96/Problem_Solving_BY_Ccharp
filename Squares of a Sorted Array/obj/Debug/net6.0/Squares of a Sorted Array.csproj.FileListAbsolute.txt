@@ -1,0 +1,15 @@
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\bin\Debug\net6.0\Squares of a Sorted Array.exe
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\bin\Debug\net6.0\Squares of a Sorted Array.deps.json
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\bin\Debug\net6.0\Squares of a Sorted Array.runtimeconfig.json
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\bin\Debug\net6.0\Squares of a Sorted Array.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\bin\Debug\net6.0\Squares of a Sorted Array.pdb
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\Squares of a Sorted Array.csproj.AssemblyReference.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\Squares of a Sorted Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\Squares of a Sorted Array.AssemblyInfoInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\Squares of a Sorted Array.AssemblyInfo.cs
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\Squares of a Sorted Array.csproj.CoreCompileInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\Squares of a Sorted Array.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\refint\Squares of a Sorted Array.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\Squares of a Sorted Array.pdb
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\Squares of a Sorted Array.genruntimeconfig.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Squares of a Sorted Array\obj\Debug\net6.0\ref\Squares of a Sorted Array.dll

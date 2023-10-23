@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Best Time to Buy and Sell Stock II",
-    "\\Majority Element"
+    "\\Majority Element",
+    "\\Move Zeroes"
   ],
-  "SelectedNode": "\\Majority Element\\Majority Element.csproj",
+  "SelectedNode": "\\Move Zeroes\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
