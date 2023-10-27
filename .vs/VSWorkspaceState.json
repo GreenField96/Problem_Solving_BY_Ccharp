@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Majority Element",
-    "\\Move Zeroes"
+    "\\Longest Substring Without Repeating Characters"
   ],
-  "SelectedNode": "\\Move Zeroes\\Program.cs",
+  "SelectedNode": "\\Longest Substring Without Repeating Characters\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

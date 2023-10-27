@@ -1,0 +1,5 @@
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Sort the People\obj\Debug\net6.0\Sort the People.csproj.AssemblyReference.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Sort the People\obj\Debug\net6.0\Sort the People.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Sort the People\obj\Debug\net6.0\Sort the People.AssemblyInfoInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Sort the People\obj\Debug\net6.0\Sort the People.AssemblyInfo.cs
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\Sort the People\obj\Debug\net6.0\Sort the People.csproj.CoreCompileInputs.cache
