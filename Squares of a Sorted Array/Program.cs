@@ -34,6 +34,7 @@ public class Solution
         nums = SortArray(nums, 0, (nums.Count() - 1));
         return nums;
     }
+    //this is a QickSort function & i take it from internet ;)
     public static int[] SortArray(int[] array, int leftIndex, int rightIndex)
     {
         var i = leftIndex;
