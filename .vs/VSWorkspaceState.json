@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Merge Sorted Array"
+    "\\Best Time to Buy and Sell Stock",
+    "\\Best Time to Buy and Sell Stock II",
+    "\\Remove Duplicates from Sorted Array",
+    "\\Remove Duplicates from Sorted Array II",
+    "\\secondHelloApp",
+    "\\Squares of a Sorted Array"
   ],
-  "SelectedNode": "\\Merge Sorted Array\\Program.cs",
+  "SelectedNode": "\\Remove Duplicates from Sorted Array II\\Remove Duplicates from Sorted Array II.csproj",
   "PreviewInSolutionExplorer": false
 }
