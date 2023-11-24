@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Best Time to Buy and Sell Stock",
-    "\\Best Time to Buy and Sell Stock II",
-    "\\Remove Duplicates from Sorted Array",
-    "\\Remove Duplicates from Sorted Array II",
-    "\\secondHelloApp",
-    "\\Squares of a Sorted Array"
+    "\\Merge Sorted Array",
+    "\\running sum of 1d array",
+    "\\secondHelloApp"
   ],
-  "SelectedNode": "\\Remove Duplicates from Sorted Array II\\Remove Duplicates from Sorted Array II.csproj",
+  "SelectedNode": "\\running sum of 1d array\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

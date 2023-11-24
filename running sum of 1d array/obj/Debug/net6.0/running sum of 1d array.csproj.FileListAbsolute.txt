@@ -1,0 +1,15 @@
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\bin\Debug\net6.0\running sum of 1d array.exe
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\bin\Debug\net6.0\running sum of 1d array.deps.json
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\bin\Debug\net6.0\running sum of 1d array.runtimeconfig.json
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\bin\Debug\net6.0\running sum of 1d array.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\bin\Debug\net6.0\running sum of 1d array.pdb
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\running sum of 1d array.csproj.AssemblyReference.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\running sum of 1d array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\running sum of 1d array.AssemblyInfoInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\running sum of 1d array.AssemblyInfo.cs
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\running sum of 1d array.csproj.CoreCompileInputs.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\running sum of 1d array.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\refint\running sum of 1d array.dll
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\running sum of 1d array.pdb
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\running sum of 1d array.genruntimeconfig.cache
+D:\Apps\leetcode\Problem_Solving_BY_Ccharp\running sum of 1d array\obj\Debug\net6.0\ref\running sum of 1d array.dll
